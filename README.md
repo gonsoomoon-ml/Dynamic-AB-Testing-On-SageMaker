@@ -80,4 +80,14 @@
  | |-test_algorithm.py : MAB 알고리즘 테스트 함수
  | |-variants_linline_db.py : 간단한 인라인 데이터 베이스 
 ```
+# 참고 자료
+
+- Dynamic A/B testing for machine learning models with Amazon SageMaker MLOps projects
+    - https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/
+    
+- A/B Testing ML models in production using Amazon SageMaker
+    - https://aws.amazon.com/blogs/machine-learning/a-b-testing-ml-models-in-production-using-amazon-sagemaker/
+    - Code
+        - https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker_endpoints/a_b_testing/a_b_testing.ipynb
+
 
